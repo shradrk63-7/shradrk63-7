@@ -16,4 +16,4 @@
 - **Tools:** Git, GitHub, VS Code
 
 ### 📫 Connect with me:
-[LinkedIn]( https://bit.ly/Shraddhark) |[Email](shradrk123@gmail.com)
+[LinkedIn]( https://bit.ly/Shradrk) |[Email](shradrk123@gmail.com)
